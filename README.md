@@ -58,7 +58,3 @@ python tasks/train_helper.py
 
 The script will automatically do training, testing and report the final performance.
 
-
-=======
-# MCRead
->>>>>>> 904cc1d2827149e914a37f4bed5bb8fbc186e029
