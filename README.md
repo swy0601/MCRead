@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 This is the replication package for **MCRead** model titled *"MCRead: A Multi-Granularity Context-Aware Approach for Code Change Readability Assessment"* including both code and datasets. 
 
 
