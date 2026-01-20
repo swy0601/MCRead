@@ -49,7 +49,7 @@ To ensure some scripts will work well, you have to do three  things first:
 
 
 ## Running
-Execute follow command **at the root of the project** to run the apca task:
+Execute follow command **at the root of the project** to run:
 ```shell
 python tasks/train_helper.py 
 ```
