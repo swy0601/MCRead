@@ -6,14 +6,13 @@ This is the replication package for **MCRead** model titled *"MCRead: A Multi-Gr
 MCRead 
 ├─core
 │  ├─comp 
-│    ├─dataset_readers
-│    │      readers.py     
-│    ├─metric        
-│    ├─nn           
-│    └─tokenizers       
-│       
+│  │  ├─dataset_readers
+│  │  │      readers.py     
+│  │  ├─metric        
+│  │  ├─nn           
+│  │  └─tokenizers       
+│  └─models            
 ├─evaluation           
-├─models
 ├─tasks
 │  │  aggre_results.py
 │  │  evaluate.py
