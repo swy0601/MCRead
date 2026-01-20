@@ -6,12 +6,12 @@ This is the replication package for **MCRead** model titled *"MCRead: A Multi-Gr
 MCRead 
 ├─core
 │  ├─comp 
-│  │  ├─dataset_readers
-│  │  │      readers.py     
-│  │  ├─metric        
-│  │  ├─nn           
-│  │  └─tokenizers       
-│  └─models       
+│    ├─dataset_readers
+│    │      readers.py     
+│    ├─metric        
+│    ├─nn           
+│    └─tokenizers       
+│       
 ├─evaluation           
 ├─models
 ├─tasks
