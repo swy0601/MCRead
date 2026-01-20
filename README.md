@@ -44,7 +44,7 @@ Unzip this file and move the `data` folder to the root of this project to finish
 ## Before Running
 To ensure some scripts will work well, you have to do three  things first:
 1. Open "base_global.py" and check the path of Python interpreter, you should configure the right python interpreter path here.
-2. **Make sure you are running all the code at the root directory of the CCRep project**, this is important.
+2. **Make sure you are running all the code at the root directory of the MCRead project**, this is important.
 3. You need to download the token-level pre-trained model **codebert_base** and the character-level pre-trained model **canine-s**, and place them in the root directory of the current project using the pre-trained model names as folder names.
 
 
